@@ -18,3 +18,8 @@
 This will install all 
 
 # Test 
+- in cli, run this 
+
+            sudo docker run hello-world
+           
+  [!Docker Install]()

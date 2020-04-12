@@ -17,7 +17,7 @@
       
 This will install all 
 
-you may try to use this script ![docker-install-popos.sh]
+you may try to use this script ![install](docker-install-popos.sh)
 
 # Test 
 - in cli, run this 

@@ -22,4 +22,4 @@ This will install all
 
             sudo docker run hello-world
            
-  [!Docker Install](./docker-install.jpg)
+ ![Docker Install](docker-install.jpg)

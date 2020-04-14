@@ -6,7 +6,8 @@
 
 	Options:
 		  --config string      Location of client config files 
-	  -c, --context string     Name of the context to use to connect to the daemon (overrides DOCKER_HOST env var and default context set with "docker context use")
+	  -c, --context string     Name of the context to use to connect to the daemon 
+	  (overrides DOCKER_HOST env var and default context set with "docker context use")
 	  -D, --debug              Enable debug mode
 	  -H, --host list          Daemon socket(s) to connect to
 	  -l, --log-level string   Set the logging level

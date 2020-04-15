@@ -2,13 +2,6 @@
 
 	Usage: docker-machine.exe [OPTIONS] COMMAND [arg...]
 
-	Create and manage machines running Docker.
-
-	Version: 0.16.1, build cce350d7
-
-	Author:
-	  Docker Machine Contributors - <https://github.com/docker/machine>
-
 	Options:
 	  --debug, -D                                                   Enable debug mode
 	  --storage-path, -s "C:\Users\Shantonu\.docker\machine"        Configures storage path [$MACHINE_STORAGE_PATH]
